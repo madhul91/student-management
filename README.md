@@ -44,4 +44,5 @@ student-management/
 
 ```bash
 chmod +x student.sh
+
 ./student.sh
