@@ -1,0 +1,23 @@
+# Data files
+students.db
+students_backup.db
+temp.db
+
+# Log files
+logs.txt
+*.log
+
+# Backup files
+*.backup
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Executable files
+*.out
+*.exe
